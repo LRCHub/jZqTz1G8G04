@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "かわいいだけじゃだめですか？",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2025-12-14T08:30:37.418828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かわいいだけじゃだめですか?",
+      "artist": "CUTIE STREET",
+      "has_synced": true,
+      "path": "select/01_かわいいだけじゃだめですか_CUTIE_STREET.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かわいいだけじゃだめですか？",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/02_かわいいだけじゃだめですか_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かわいいだけじゃだめですか?",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_かわいいだけじゃだめですか_CUTIE_STREET.txt"
+    }
+  ]
+}
